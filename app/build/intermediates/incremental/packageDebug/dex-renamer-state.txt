@@ -1,0 +1,7 @@
+#Wed Nov 30 17:10:25 IST 2016
+base.0=D\:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_15587bf9800cc61575765f81415c4fd722111ab8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_948b7fb16378699ae77f6a562678260fe6d3441c\\classes.dex
+base.1=D\:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_948b7fb16378699ae77f6a562678260fe6d3441c
+file.0=D\:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_15587bf9800cc61575765f81415c4fd722111ab8\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio_Projects\IOCipher1\app\libs\IOCipher-v0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8d4529582a20857642f72bef607aac72eab6338">
+        <dex dex="D:\Android_Studio_Projects\IOCipher1\app\build\intermediates\transforms\dex\debug\folders\1000\2\IOCipher-v0.2_f0a4905b8d4e35d82030f757171595d1adede8a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio_Projects\IOCipher1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cc9e8eaabecfd6902b7bed40e5ea6f7b3147306a">
+        <dex dex="D:\Android_Studio_Projects\IOCipher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_948b7fb16378699ae77f6a562678260fe6d3441c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio_Projects\IOCipher1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01036d80adb48d7ef6c35edcd4049254451bdf17">
+        <dex dex="D:\Android_Studio_Projects\IOCipher1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15587bf9800cc61575765f81415c4fd722111ab8\classes.dex" />
+    </item>
+
+</items>

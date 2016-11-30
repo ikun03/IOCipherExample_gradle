@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\folder.png",
+        "source": "D:\\Android_Studio_Projects\\IOCipher1\\app\\src\\main\\res\\drawable-mdpi\\folder.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\Android_Studio_Projects\\IOCipher1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Projects\\IOCipher1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\text.png",
+        "source": "D:\\Android_Studio_Projects\\IOCipher1\\app\\src\\main\\res\\drawable-mdpi\\text.png"
+    }
+]
